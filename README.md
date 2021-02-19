@@ -30,6 +30,7 @@ const newStr = str.replaceAll("lux", "Lux");
 console.log(newStr);
 
 ~~~ 
+[Chech File: replaceall.js ](https://github.com/LuxTechAcademy/JavaScript-2021/blob/main/replaceall.js)
 
 ### **2). Promise Any**
 
@@ -46,6 +47,7 @@ Promise.any([rejectMe, resolveMe, rejectMe,])
 
 Here if in place of any, Promise.race is used, it will get a rejection response. 
 
+[Check file: Promise-Any.js](https://github.com/LuxTechAcademy/JavaScript-2021/blob/main/Promise-Any.js)
 
 ### **3). Numeric separators**
 
@@ -56,6 +58,8 @@ const num = 100_000
 console.log(num)
 
 ~~~ 
+
+[Check File:Numeric-Separators.js](https://github.com/LuxTechAcademy/JavaScript-2021/blob/main/Numeric-Separators.js)
 
 ## **4). Logical Assignment Operators**
 
@@ -71,6 +75,7 @@ cartTotal()
 cartTotal(20)
 ~~~
 
+[Check file: Logical-Assignment-Operators.js](https://github.com/LuxTechAcademy/JavaScript-2021/blob/main/Logical-Assignment-Operators.js)
 
 #### **weakRef**
 This one is easy to understand by very tricky to get an hands on example. When an object no longer have strong reference to any variable or part of code, JS engine's garbage collector may destroy and reclaim it's memory.
