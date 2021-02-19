@@ -66,3 +66,16 @@ cartTotal()
 cartTotal(20)
 ~~~
 
+
+#### **weakRef**
+This one is easy to understand by very tricky to get an hands on example. When an object no longer have strong reference to any variable or part of code, JS engine's garbage collector may destroy and reclaim it's memory.
+
+A very standard process of how GC works. When we store such weak refs in cache, it sometimes creates a little issue and hopefully in near future, this will be resolved. 
+
+You should really take some time and read this official [TC 39 WeakRef proposal guide](https://github.com/tc39/proposal-weakrefs/blob/master/reference.md) that is writted in very depth and use cases.
+
+Best Wishes from Lux Tech Academy Team.
+
+Happy Coding 🥳
+
+
