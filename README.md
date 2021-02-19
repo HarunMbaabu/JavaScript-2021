@@ -1,5 +1,7 @@
 #  Javascript 21 - ES12
+<div align="center">
 ![ES12 IMAGE](https://github.com/LuxTechAcademy/JavaScript-2021/blob/main/es12.png)
+</div>
 
 Every year, Javascript teams brings in new features, this year javascript team has released ES12 (JavaScript 2021)  with  4 new features, which are almost in production rollout.
 
